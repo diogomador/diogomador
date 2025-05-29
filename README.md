@@ -1,11 +1,21 @@
-# 👋 Olá! Eu sou Diôgo Amador
+<table>
+  <tr>
+    <td>
+      <h1>👋 Olá! Eu sou Diôgo Amador</h1>
+      <p>
+        <strong>Pronomes:</strong> Ele/dele<br>
+        🎓 Formado em <strong>Informática para Internet</strong> pelo <strong>IFRN</strong><br>
+        💻 Desenvolvedor <strong>Back-End</strong>, mas me viro bem no <strong>Front-End</strong> também!<br>
+        🎸 Além de programador, sou <strong>músico</strong> e gosto de tocar <strong>violão</strong>.
+      </p>
+    </td>
+    <td>
+      <img src="Violão.png" alt="Violão Tech do Diôgo" width="200"/>
+    </td>
+  </tr>
+</table>
 
-**Pronomes:** Ele/dele  
-🎓 Formado em **Informática para Internet** pelo **IFRN**  
-💻 Desenvolvedor **Back-End**, mas me viro bem no **Front-End** também!  
-🎸 Além de programador, sou **músico** e gosto de tocar **violão**.
 
----
 
 ## 🚀 Tecnologias que eu uso no dia a dia
 
