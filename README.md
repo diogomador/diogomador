@@ -36,8 +36,6 @@ Adoro resolver problemas com código, aprender novas tecnologias e compartilhar 
 Além disso, sou **músico** nas horas vagas — violão sempre por perto!
 
 ---
-<!-- ## 📊 Minhas Estatísticas no GitHub <!-- ![Diôgo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogomador&show_icons=true&theme=radical) --> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomador&layout=compact&theme=radical)-->
----
 
 ## 📫 Como me encontrar?
 
